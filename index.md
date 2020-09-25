@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# What Voltaire Meant by ‘One Must Cultivate One’s Own Garden
 
-You can use the [editor on GitHub](https://github.com/MikSm1th/we_must_tend_our_garden/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### [From the School of Life](https://www.theschooloflife.com/thebookoflife/cultivate-own-garden-voltaire/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ ![Garden](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.almanac.com%2Fnews%2Fgardening%2Fgardening-advice%2Fgardening-kids&psig=AOvVaw0YYJBgQ7Or5RwjY0K-jl8A&ust=1601162834008000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIio5ci6hewCFQAAAAAdAAAAABAD)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+What did Voltaire mean with his gardening advice? That we must keep a good distance between ourselves and the world, because taking too close an interest in politics or public opinion is a fast route to aggravation and danger. We should know well enough at this point that humans are troublesome and will never achieve – at a state level – anything like the degree of logic and goodness we would wish for. We should never tie our personal moods to the condition of a whole nation or people in general; or we would need to weep continuously. We need to live in our own small plots, not the heads of strangers. At the same time, because our minds are haunted and prey to anxiety and despair, we need to keep ourselves busy. We need a project. It shouldn’t be too large or dependent on many. The project should send us to sleep every night weary but satisfied. It could be bringing up a child, writing a book, looking after a house, running a small shop or managing a little business. Or, of course, tending to a few acres. Note Voltaire’s geographical modesty. We should give up on trying to cultivate the whole of humanity, we should give up on things at a national or international scale. Take just a few acres and make those your focus. Take a small orchard and grow lemons and apricots. Take some beds and grow asparagus and carrots. Stop worrying yourself with humanity if you ever want peace of mind again. Who cares what’s happening in Constantinople or what’s up with the grand Mufti. Live quietly like the old turk, enjoying the sunshine in the orange bower next to your house. This is Voltaire’s stirring, ever relevant form of horticultural quietism. We have been warned – and guided.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MikSm1th/we_must_tend_our_garden/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We melancholics know that humans – ourselves foremost among them – are beyond redemption. We melancholics have given up on dreams of complete purity and unblemished happiness. We know that this world is, for the most part, hellish and heartbreakingly vicious. We know that our minds are full of demons that will not leave us alone for long. Nevertheless, we are committed to not slipping into despondency. We remain deeply interested in kindness, in friendship, in art, in family life – and in spending some very quiet local afternoons gardening. The melancholic position is ultimately the only sensible one for a broken human. It’s where one gets to, after one has been hopeful, after one has tried love, after one has been tempted by fame, after one has despaired, after one’s gone mad, after one’s considered ending it – and after one’s decided conclusively to keep going. It captures the best possible attitude to pain – and the wisest orientation of a weary mind towards what remains hopeful and good.
