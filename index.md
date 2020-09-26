@@ -18,9 +18,8 @@ acres. Note Voltaire’s geographical modesty. We should give up on trying to cu
 the whole of humanity, we should give up on things at a national or international <br>
 scale. Take just a few acres and make those your focus. Take a small orchard and <br>
 grow lemons and apricots. Take some beds and grow asparagus and carrots. Stop <br>
-worrying yourself with humanity if you ever want peace of mind again. Who cares <br>
-what’s happening in Constantinople or what’s up with the grand Mufti. Live quietly <br>
-like the old turk,enjoying the sunshine in the orange bower next to your house.<br>
+worrying yourself with humanity if you ever want peace of mind again. Live quietly, <br>
+enjoying the sunshine in the orange bower next to your house.<br>
 This is Voltaire’s stirring, ever relevant form of horticultural quietism.<br>
 We have been warned – and guided.<br>
 
