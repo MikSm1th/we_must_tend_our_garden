@@ -28,16 +28,16 @@ We have been warned – and guided.<br>
  
 <br>
 We melancholics know that humans – ourselves foremost among them – are beyond <br>
-redemption. We melancholics have given up on dreams of complete purity and
-unblemished happiness. We know that this world is, for the most part, hellish
-and heartbreakingly vicious. We know that our minds are full of demons that
-will not leave us alone for long. Nevertheless, we are committed to not 
-slipping into despondency. We remain deeply interested in kindness, 
+redemption. We melancholics have given up on dreams of complete purity and <br>
+unblemished happiness. We know that this world is, for the most part, hellish <br>
+and heartbreakingly vicious. We know that our minds are full of demons that <br>
+will not leave us alone for long. Nevertheless, we are committed to not <br>
+slipping into despondency. We remain deeply interested in kindness, <br>
 in friendship, in art, in family life – and in spending some very quiet local <br>
-afternoons gardening. The melancholic position is ultimately the only sensible 
-one for a <broken human. It’s where one gets to, after one has been hopeful, 
-after one has tried love, after one has been tempted by fame, after one has
-despaired, after one’s gone mad, after one’s considered ending it – and after 
-one’s decided conclusively to keep going. It captures the best possible 
-attitude to pain – and the wisest orientation of a weary mind towards what 
+afternoons gardening. The melancholic position is ultimately the only sensible <br>
+one for a broken human. It’s where one gets to, after one has been hopeful, <br>
+after one has tried love, after one has been tempted by fame, after one has <br>
+despaired, after one’s gone mad, after one’s considered ending it – and after <br>
+one’s decided conclusively to keep going. It captures the best possible <br>
+attitude to pain – and the wisest orientation of a weary mind towards what <br>
 remains hopeful and good.<br>
