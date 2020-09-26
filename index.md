@@ -1,6 +1,6 @@
 # What Voltaire Meant by ‘One Must Cultivate One’s Own Garden
 
-### [From the School of Life](https://www.theschooloflife.com/thebookoflife/cultivate-own-garden-voltaire/)
+### [Abridged from the School of Life](https://www.theschooloflife.com/thebookoflife/cultivate-own-garden-voltaire/)
 
 What did Voltaire mean with his gardening advice? That we must keep a good distance<br> 
 between ourselves and the world, because taking too close an interest in politics or <br>
