@@ -2,9 +2,6 @@
 
 ### [From the School of Life](https://www.theschooloflife.com/thebookoflife/cultivate-own-garden-voltaire/)
 
- ![Garden](https://www.almanac.com/sites/default/files/styles/primary_image_in_article/public/image_nodes/garden-kids-shutterstock_604273937.jpg?itok=eZITiHbb)
-```
-
 What did Voltaire mean with his gardening advice? That we must keep a good distance<br> 
 between ourselves and the world, because taking too close an interest in politics or <br>
 public opinion is a fast route to aggravation and danger. We should know well enough <br>
@@ -20,21 +17,27 @@ running a small shop or managing a little business. Or, of course, tending to a 
 acres. Note Voltaire’s geographical modesty. We should give up on trying to cultivate <br>
 the whole of humanity, we should give up on things at a national or international <br>
 scale. Take just a few acres and make those your focus. Take a small orchard and <br>
-grow lemons and apricots. Take some beds and grow asparagus and carrots. Stop worrying <br>
-yourself with humanity if you ever want peace of mind again. Who cares what’s happening <br>
-in Constantinople or what’s up with the grand Mufti. Live quietly like the old turk, <br>
-enjoying the sunshine in the orange bower next to your house. This is Voltaire’s stirring,<br> 
-ever relevant form of horticultural quietism. We have been warned – and guided.<br>
+grow lemons and apricots. Take some beds and grow asparagus and carrots. Stop <br>
+worrying yourself with humanity if you ever want peace of mind again. Who cares <br>
+what’s happening in Constantinople or what’s up with the grand Mufti. Live quietly <br>
+like the old turk,enjoying the sunshine in the orange bower next to your house.<br>
+This is Voltaire’s stirring, ever relevant form of horticultural quietism.<br>
+We have been warned – and guided.<br>
 
-We melancholics know that humans – ourselves foremost among them – are beyond redemption. <br>
-We melancholics have given up on dreams of complete purity and unblemished happiness. <br>
-We know that this world is, for the most part, hellish and heartbreakingly vicious. <br>
-We know that our minds are full of demons that will not leave us alone for long. <br>
-Nevertheless, we are committed to not slipping into despondency. We remain deeply interested <br>
-in kindness, in friendship, in art, in family life – and in spending some very quiet local <br>
-afternoons gardening. The melancholic position is ultimately the only sensible one for a <br>
-broken human. It’s where one gets to, after one has been hopeful, after one has tried love, <br>
-after one has been tempted by fame, after one has despaired, after one’s gone mad, after <br>
-one’s considered ending it – and after one’s decided conclusively to keep going. It <br>
-captures the best possible attitude to pain – and the wisest orientation of a weary mind <br>
-towards what remains hopeful and good.<br>
+ ![Garden](https://www.almanac.com/sites/default/files/styles/primary_image_in_article/public/image_nodes/garden-kids-shutterstock_604273937.jpg?itok=eZITiHbb =540x383)
+ 
+<br>
+We melancholics know that humans – ourselves foremost among them – are beyond <br>
+redemption. We melancholics have given up on dreams of complete purity and
+unblemished happiness. We know that this world is, for the most part, hellish
+and heartbreakingly vicious. We know that our minds are full of demons that
+will not leave us alone for long. Nevertheless, we are committed to not 
+slipping into despondency. We remain deeply interested in kindness, 
+in friendship, in art, in family life – and in spending some very quiet local <br>
+afternoons gardening. The melancholic position is ultimately the only sensible 
+one for a <broken human. It’s where one gets to, after one has been hopeful, 
+after one has tried love, after one has been tempted by fame, after one has
+despaired, after one’s gone mad, after one’s considered ending it – and after 
+one’s decided conclusively to keep going. It captures the best possible 
+attitude to pain – and the wisest orientation of a weary mind towards what 
+remains hopeful and good.<br>
