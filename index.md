@@ -19,8 +19,9 @@ the whole of humanity, we should give up on things at a national or internationa
 scale. Take just a few acres and make those your focus. Take a small orchard and <br>
 grow lemons and apricots. Take some beds and grow asparagus and carrots. Stop <br>
 worrying yourself with humanity if you ever want peace of mind again. Live quietly, <br>
-enjoying the sunshine in the orange bower next to your house.<br>
-This is Voltaire’s stirring, ever relevant form of horticultural quietism.<br>
+enjoying the sunshine in the orange bower next to your house. This is Voltaire’s 
+stirring, ever relevant form of horticultural quietism.<br>
+<br>
 We have been warned – and guided.<br>
 
  ![Garden](https://www.almanac.com/sites/default/files/styles/primary_image_in_article/public/image_nodes/garden-kids-shutterstock_604273937.jpg?itok=eZITiHbb =540x383)
